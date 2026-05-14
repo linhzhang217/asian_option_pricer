@@ -1,0 +1,20 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.egg
+build/
+dist/
+.eggs/
+.pytest_cache/
+.coverage
+.ipynb_checkpoints/
+.venv/
+venv/
+.env
+.DS_Store
+
+# R / RStudio
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj
